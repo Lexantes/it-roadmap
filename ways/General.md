@@ -11,6 +11,7 @@
 
 Для большинства позиций стажёр/jun достаточно базового и/или углублённого уровня.
 
+Можно найти много чего полезного на сайте [habr](https://habr.com).
 # Ссылки с вопросами
 1. https://my-js.org/docs/cheatsheet/devops
-2. https://github.com/Swfuse/devops-interview/blob/main/interview.md
+2. https://github.com/Swfuse/devops-interview/blob/main/interview.md ^f792e3
