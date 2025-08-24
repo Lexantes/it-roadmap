@@ -5,7 +5,7 @@
 - https://habr.com/ru/companies/ruvds/articles/325522/ про bash
 ## Курсы
 - https://stepik.org/course/181507
-
+- https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises
 # Темы для изучения
 Первоначально надо себя чувствовать уверенно в терминале. [Курс1](https://stepik.org/course/762) или [курс2](https://stepik.org/course/73)
 - базовые команды
@@ -20,7 +20,5 @@
 - grep
 - nano/vim
 - Попроси нейронку придумать задания на grep, find, <любая утилита>.
-- Безопасность линукса
-	- 
 # Вопросы
-Возьми из [[General#^f792e3]]
+Возьми из General
