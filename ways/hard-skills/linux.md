@@ -3,13 +3,16 @@
 Надо будет очень много гуглить.
 # Ссылки
 - https://habr.com/ru/companies/ruvds/articles/325522/ про bash
+- https://stepik.org/course/181507
+- https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises
 ## Курсы
 - https://stepik.org/course/181507
 - https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises
+- Книга
 # Темы для изучения
 Первоначально надо себя чувствовать уверенно в терминале. [Курс1](https://stepik.org/course/762) или [курс2](https://stepik.org/course/73)
 - базовые команды
-- права файлов и директорий, suid, sticky bit и тд (https://habr.com/ru/articles/469667/)
+- права файлов и директорий, suid, sticky bit и тд (https://habr.com/ru/articles/469667/ и https://stepik.org/course/229493)
 - перенаправление потоков
 - структура файловой системы
 - Демоны, зомби

@@ -4,6 +4,7 @@
 3. Можно скачать CPT ( чтобы потрениться) https://getprogram.net/go.php?to=/CiscoPacketTracer_811_Windows_64bit.exe и надо будет найти как заблокировать приложения в файрволле.
 4. https://www.youtube.com/playlist?list=PLthfp5exSWErPFK_-EAhVtxO3XoY0gsSe
 5. https://netacad.sadlab.su/
+6. [Какой-то курс на степике](https://stepik.org/course/208904)
 ## Вопросы
 1. https://wiki.merionet.ru/articles/top-40-voprosov-na-sobesedovanii-it-specialistu
 2. https://github.com/SE-adm/Awesome-network

@@ -13,3 +13,6 @@
 # Ссылки с вопросами
 1. https://my-js.org/docs/cheatsheet/devops
 2. https://github.com/Swfuse/devops-interview/blob/main/interview.md
+# Бесплатные курсы
+1. https://stepik.org/
+2. https://selectel.ru/blog/courses/
