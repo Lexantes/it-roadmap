@@ -7,6 +7,9 @@
 5. [Как ускорить сборку Docker-образов в GitLab: стратегии кэширования с Docker Buildx](https://habr.com/ru/companies/bimeister/articles/854064/)
 6. [Лонгрид](https://habr.com/ru/articles/935178/)
 7. [Курс со степика](https://stepik.org/course/123300)
+8. [Шпаргалка по безопасной сборке Docker-образов](https://habr.com/ru/companies/selectel/articles/813047/)
+9. Побеги из контейнера - [тык1](https://github.com/aleksey0xffd/docker-escape) и [тык2](https://www.youtube.com/watch?v=biC3TO7OELY)
+10. 
 # Темы для изучения
 1. Почитай про best practice при написание dockerfile и использование контейнеризации.
 2. Взять какой-нибудь проект и попробовать написать для него dockerfile (собрать из исходников в докере).
